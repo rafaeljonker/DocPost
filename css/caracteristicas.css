@@ -1,0 +1,56 @@
+
+.caracteristicas{
+  margin-bottom: 4.375rem;
+}
+
+.caracteristicas p{
+  color: #404040;
+  font-family: Roboto Condensed;
+  font-size: .875rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 170.187%;
+}
+
+
+.caracteristicas-grid{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  gap: .9375rem;
+}
+
+.box{
+border-radius: .5583rem;
+background: #FFF;
+box-shadow: 0rem 0rem .2005rem -0.1595rem;
+padding: .9375rem;
+
+
+}
+.box p,h3{
+  margin: 0rem;
+  margin-top: .25rem;
+}
+
+
+.box h3{
+
+  align-self: stretch;
+color: #303030;
+
+font-family: Roboto;
+font-size: 15.312px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.box p{
+  color: #303030;
+
+font-family: Roboto;
+font-size: 12.824px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}

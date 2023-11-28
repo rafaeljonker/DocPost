@@ -1,0 +1,30 @@
+@import url("header.css");
+@import url("queroApp.css");
+@import url("caracteristicas.css");
+@import url("telefone.css");
+@import url("comentarios.css");
+html{
+  margin: 0;
+  border: 0;
+}
+
+body{
+  margin: 0px;
+}
+
+section,header{
+  padding: .5rem 1.875rem .875rem 1.875rem ;
+
+}
+.tituloh2{ 
+color: #303030;
+font-family: Roboto Condensed;
+font-size: 1.0625rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+ }
+ 
+
+ 

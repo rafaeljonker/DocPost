@@ -1,0 +1,89 @@
+.telefone{
+  background: rgba(54, 159, 255, 0.10);
+  padding: 3rem 0rem 2.0023rem 0rem;
+  max-width: 100%;
+  min-height: 23.75rem;
+ 
+ 
+ 
+}
+
+
+
+.telefone h2{
+  text-align: center;
+}
+.telefone-margin{
+  min-height: 23.875rem;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.telefone p,h2,h3{
+  margin: 0rem;
+  }
+
+.telefone p{
+color: #303030;
+font-family: Roboto Condensed;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 170%; /* 23.8px */
+letter-spacing: 1.68px;
+
+}
+
+
+
+
+.telefone h2{
+  margin-bottom: 23px;
+}
+
+
+.box1,.box2,.box3{
+  display: none;
+  min-height: 320px;
+}
+
+
+.bolaativa{
+  display: block;
+}
+
+
+li{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  gap: .625rem;
+  
+
+  
+  
+  
+}
+
+li span{
+  color: #369FFF;
+  font-size: 50px;
+}
+
+
+.ball1,.ball2,.ball3{
+  opacity: 50%;
+
+}
+
+
+.bolaativa{
+opacity: 100%;
+
+}
+
+figure{
+  display: flex;
+  justify-content: center;
+  margin-top: 3.75rem;
+  }
